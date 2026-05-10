@@ -1,0 +1,28 @@
+# Pastas de Compilação e Binários (EXTREMAMENTE IMPORTANTES)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/
+
+# Arquivos do Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Arquivos de log e temporários
+*.log
+*.tps
+*.bak
+
+# Pasta de Plugins (se você baixar do Marketplace, elas costumam ser ignoradas e baixadas à parte)
+# Plugins/*/Intermediate/
+# Plugins/*/Binaries/
+
+# Programas externos
+.idea/
